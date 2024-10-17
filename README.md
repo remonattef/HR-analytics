@@ -1,4 +1,4 @@
-Project Objective
+Project Objectives
 
 The goal of this project is to
 1-analyze the HR to Identify factors affecting employee
