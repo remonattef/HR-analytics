@@ -1,4 +1,4 @@
-Project Objectives
+![image](https://github.com/user-attachments/assets/ed4402ec-fec2-48c9-94e0-de221325c9db)Project Objectives
 
 The goal of this project is to
 1-analyze the HR to Identify factors affecting employee
@@ -7,6 +7,8 @@ The goal of this project is to
 
 3-Measure employee performance
 
+![WhatsApp Image 2024-12-07 at 10 58 37_809718ed](https://github.com/user-attachments/assets/8e0cc3bc-19a5-43fa-87c3-2b1f91f73839)
+![WhatsApp Image 2024-12-07 at 10 59 01_d076538e](https://github.com/user-attachments/assets/bf05f461-8a94-42db-8cfd-9ce505be8b60)
 
 Business Questions
 
