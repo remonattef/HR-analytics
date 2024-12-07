@@ -33,3 +33,6 @@ What is the difference in attrition rates between different salary ranges?
 
 
 ![Uploading WhatsApp Image 2024-12-07 at 11.01.08_5d50dfaf.jpg…]()
+
+
+https://youtu.be/EP01eSNN0Jw?si=bG6DEkQ3o-v_sMAk
