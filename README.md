@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ed4402ec-fec2-48c9-94e0-de221325c9db)Project Objectives
+Project Objectives
 
 The goal of this project is to
 1-analyze the HR to Identify factors affecting employee
@@ -11,6 +11,8 @@ The goal of this project is to
 ![WhatsApp Image 2024-12-07 at 10 59 01_d076538e](https://github.com/user-attachments/assets/bf05f461-8a94-42db-8cfd-9ce505be8b60)
 
 Business Questions
+![WhatsApp Image 2024-12-07 at 10 59 30_6b1e9de3](https://github.com/user-attachments/assets/2a94ed3c-04a5-48ec-b70c-9794c0dd833e)
+
 
 What is the most common department for employees who leave the company?
 
@@ -26,4 +28,5 @@ What is the difference in attrition rates between different departments?
 
 What is the difference in attrition rates between different salary ranges?
 
+![Uploading WhatsApp Image 2024-12-07 at 11.00.02_7b263f74.jpg…]()
 
