@@ -27,6 +27,5 @@ What is the difference in attrition rates between men and women?
 What is the difference in attrition rates between different departments?
 
 What is the difference in attrition rates between different salary ranges?
-
-![Uploading WhatsApp Image 2024-12-07 at 11.00.02_7b263f74.jpg…]()
+![WhatsApp Image 2024-12-07 at 11 00 02_7b263f74](https://github.com/user-attachments/assets/e9b0061c-d267-4bfd-be81-0056d33b61b3)![Uploading WhatsApp Image 2024-12-07 at 11.00.34_669deae2.jpg…]()
 
